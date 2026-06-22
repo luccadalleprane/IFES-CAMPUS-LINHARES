@@ -1,3 +1,3 @@
 # IFES-CAMPUS-LINHARES
 PROJETO FINAL - CONTROLE INTELIGENTE
-![Descrição da Imagem](imagem.png)
+![Diagrama de Blocos do Sistema Fuzzy](image.png)
