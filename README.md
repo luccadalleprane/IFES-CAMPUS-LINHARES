@@ -51,7 +51,7 @@ A sintonia das funções de pertinência, dos singletons e da base de regras foi
 
 ## ⚙️ Principais Características
 
-* Controle em malha fechada com realimentação por encoder;
+* Controle em malha fechada com realimentação;
 * Implementação embarcada em ESP32;
 * Comunicação com o VESC via UART;
 * Controlador Fuzzy Mamdani baseado em regras heurísticas;
@@ -62,7 +62,7 @@ A sintonia das funções de pertinência, dos singletons e da base de regras foi
 
 ## 🎯 Objetivos do Projeto
 
-* Desenvolver uma plataforma experimental para estudos de controle inteligente;
+* Desenvolver uma plataforma experimental para estudos de controle;
 * Aplicar técnicas de Lógica Fuzzy em sistemas dinâmicos reais;
 * Avaliar o desempenho de estratégias de controle em um aeropêndulo;
 
@@ -71,9 +71,9 @@ A sintonia das funções de pertinência, dos singletons e da base de regras foi
 ## 👨‍💻 Tecnologias Utilizadas
 
 * ESP32
-* Arduino Framework
 * Lógica Fuzzy Mamdani
 * VESC UART
+* Encoder incremental
 * Impressão 3D
 * Controle Embarcado
 
@@ -89,6 +89,6 @@ Este trabalho foi desenvolvido como projeto final da disciplina de **Controle In
 </div>
 
 <p align="center">
-  <em>FProtótipo experimental do aeropêndulo desenvolvido.</em>
+  <em>Protótipo experimental do aeropêndulo desenvolvido.</em>
 </p>
 
