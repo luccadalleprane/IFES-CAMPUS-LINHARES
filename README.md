@@ -38,7 +38,13 @@ A sintonia das funções de pertinência, dos singletons e da base de regras foi
 
 ---
 
-![IFES - Linhares](DIAGRAMA_DO_CONTROLADOR.jpeg)
+<p align="center">
+  <img src="images/DIAGRAMA_DO_CONTROLADOR.jpeg" alt="Diagrama do Controlador Fuzzy" width="500">
+</p>
+
+<p align="center">
+  <em>Diagrama de blocos da malha fechada do controlador Fuzzy implementado no aeropêndulo.</em>
+</p>
 
 ## ⚙️ Principais Características
 
