@@ -36,15 +36,16 @@ A saída do controlador corresponde a uma correção de corrente aplicada ao mot
 
 A sintonia das funções de pertinência, dos singletons e da base de regras foi realizada de forma empírica e experimental, por meio de sucessivos ensaios no protótipo físico. Os parâmetros foram ajustados com base na observação da resposta dinâmica do sistema, buscando um compromisso entre estabilidade, rapidez de resposta e rejeição de perturbações.
 
----
 
 <p align="center">
-  <img src="images/DIAGRAMA_DO_CONTROLADOR.jpeg" alt="Diagrama do Controlador Fuzzy" width="500">
+  <img src="images/diagrama_fuzzy.png" alt="Diagrama do Controlador Fuzzy" width="500">
 </p>
 
 <p align="center">
   <em>Diagrama de blocos da malha fechada do controlador Fuzzy implementado no aeropêndulo.</em>
 </p>
+
+---
 
 ## ⚙️ Principais Características
 
