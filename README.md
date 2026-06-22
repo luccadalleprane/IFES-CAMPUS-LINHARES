@@ -1,5 +1,3 @@
-![IFES - LINHARES](image.png)
-
 # Controle de Posição de um Aeropêndulo com Lógica Fuzzy
 
 **Projeto Final da disciplina de Controle Inteligente**
