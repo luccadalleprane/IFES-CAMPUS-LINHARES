@@ -16,7 +16,7 @@ O aeropêndulo consiste em uma haste articulada acionada por um conjunto motor-h
 
 ---
 
-## 🔧 Hardware Utilizado
+## 🔧 Materiais
 
 * ESP32
 * Motor Brushless DC (BLDC)
@@ -24,6 +24,8 @@ O aeropêndulo consiste em uma haste articulada acionada por um conjunto motor-h
 * Encoder incremental para medição da posição angular 600P/R
 * Bateria LiPo 3s 11,1 V
 * Estrutura mecânica composta por peças impressas em 3D e perfis metálicos
+* Motor DYS D2830 1300KV
+* Hélice 9050
 
 ---
 
