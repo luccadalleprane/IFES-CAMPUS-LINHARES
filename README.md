@@ -20,9 +20,9 @@ O aeropêndulo consiste em uma haste articulada acionada por um conjunto motor-h
 
 * ESP32
 * Motor Brushless DC (BLDC)
-* VESC (Vedder Electronic Speed Controller)
-* Encoder incremental para medição da posição angular
-* Bateria LiPo 11,1 V
+* VESC (Vedder Electronic Speed Controller) Autoro V4
+* Encoder incremental para medição da posição angular 600P/R
+* Bateria LiPo 3s 11,1 V
 * Estrutura mecânica composta por peças impressas em 3D e perfis metálicos
 
 ---
